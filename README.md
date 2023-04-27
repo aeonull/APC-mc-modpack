@@ -28,6 +28,9 @@ Step 3: Find your mods folder.
 Step 4: Get the mods from Git and put them in that folder!
 0. If you have a Git or GitHub account, you can clone the GitHub repository into the mods folder we found earlier. This is the ideal setup, since you can update your folder from the repo at any time just by 'pulling' the Git repo!
 
+to set this up, open terminal, navigate to your mods folder in the terminal window, and run: 
+git clone https://github.com/aeonull/APC-mc-modpack .
+
 If you just read that sentence and were like "what the fuck is a git", here's what you should do:
 1. Click the green Code button on the upper right hand corner of the page
 2. Click download .zip
