@@ -26,6 +26,7 @@ Step 3: Find your mods folder.
 4. Open the mods folder! This is where you will add your mods in the next step.
 
 Step 4: Get the mods from Git and put them in that folder!
+
 0. If you have a Git or GitHub account, you can clone the GitHub repository into the mods folder we found earlier. This is the ideal setup, since you can update your folder from the repo at any time just by 'pulling' the Git repo!
 
 to set this up, open terminal, navigate to your mods folder in the terminal window, and run: 
