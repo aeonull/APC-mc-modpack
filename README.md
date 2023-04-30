@@ -33,7 +33,7 @@ Clone the GitHub repository into the mods folder we found earlier. This is the i
 
 1. Make sure you have Git installed on your computer: 
 https://git-scm.com/download/win
-2. open terminal (press windows key, type 'cmd', hit enter)
+2. open 'Command Prompt' (press windows key, type 'cmd', hit enter)
 3. Run the below two commands:
 ```
 cd %HOMEPATH%\AppData\Roaming\.minecraft\mods
