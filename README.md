@@ -19,7 +19,7 @@ https://www.java.com/en/download/
 5. Open the Minecraft Launcher, and next to the PLAY button, select forge. Launch the game at least once and make sure it doesn't crash!
 
 ## Step 3: Find your mods folder.
-1. On your desktop, use Ctrl + R or type 'Run' into the search bar
+1. On your desktop, use Windows + R or type 'Run' into the search bar
 2. type %appdata% and hit enter
 3. Look for .minecraft
 (Consider making a shortcut to this folder! You will likely be coming back here.)
