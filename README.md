@@ -35,6 +35,9 @@ Clone the GitHub repository into the mods folder we found earlier. This is the i
 https://git-scm.com/download/win
 2. open 'Command Prompt' (press windows key, type 'cmd', hit enter)
 3. Run the below two commands:
+
+THE BELOW COMMANDS ARE CORRECT AND INTENTIONAL, DO NOT MODIFY THEM OR DELETE THE PERIOD!!
+
 ```
 cd %HOMEPATH%\AppData\Roaming\.minecraft\mods
 git clone https://github.com/aeonull/APC-mc-modpack .
