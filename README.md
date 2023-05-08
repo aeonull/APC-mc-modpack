@@ -22,17 +22,27 @@ https://www.java.com/en/download/
 ## Step 3: Download the mods! Two ways to do this:
 
 
-### Method 1 (the cool kids way):
-Step 4:
+### Method 1 (automated install):
 In this method, we are going to clone the GitHub repository into the Minecraft mods installation folder. This will install all the mods for us!
+
+##Step 4:
 
 1. Make sure you have Git installed on your computer: 
 https://git-scm.com/download/win
+2. Download the update_or_install_APC_modpack.bat from the #minecraft-info channel on discord.
+3. Close out of any file explorer windows, and make sure your game is fully closed.
+4. Run the .bat file from step 2 to install the latest version of the modpack!
+5. Assuming no errors, you should be all set to start playing!
+
+If you have issues with this, you can also run the same commands in command prompt yourself:
+
 2. open 'Command Prompt' (press windows key, type 'cmd', hit enter)
-3. Run the below two commands:
+3. Run the below commands (recommended one line at a time):
 
 (The below commands are correct and intentional, modifying them in any way is not recommended! Include the . in the last command or it won't work!)
 ```
+RD /S /Q %HOMEPATH%\AppData\Roaming\.minecraft\mods
+MD %HOMEPATH%\AppData\Roaming\.minecraft\mods
 cd %HOMEPATH%\AppData\Roaming\.minecraft\mods
 git clone https://github.com/aeonull/APC-mc-modpack .
 ```
@@ -41,7 +51,7 @@ git clone https://github.com/aeonull/APC-mc-modpack .
 
 
 
-### Method 2:
+### Method 2 (manual install):
 If you have issues with the above method or are simply uncool, you can also install the mods manually:
 
 ## Step 4: Find your mods folder.
