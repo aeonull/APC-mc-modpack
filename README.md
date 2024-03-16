@@ -25,8 +25,6 @@ https://www.java.com/en/download/
 ### Method 1 (automated install):
 In this method, we are going to clone the GitHub repository into the Minecraft mods installation folder. This will install all the mods for us!
 
-##Step 4:
-
 1. Make sure you have Git installed on your computer: 
 https://git-scm.com/download/win
 2. Download the update_or_install_APC_modpack.bat from the #minecraft-info channel on discord.
@@ -52,20 +50,18 @@ git clone https://github.com/aeonull/APC-mc-modpack .
 
 
 ### Method 2 (manual install):
-If you have issues with the above method or are simply uncool, you can also install the mods manually:
+If you have issues with the above method or don't want to install Git, you can also install the mods manually:
 
-## Step 4: Find your mods folder.
 1. On your desktop, use Windows + R or type 'Run' into the search bar
 2. type %appdata% and hit enter
 3. Look for .minecraft
 (Consider making a shortcut to this folder! You will likely be coming back here.)
 4. Open the mods folder! This is where you will add your mods in the next step.
 
-Step 5:
-1. Click the green Code button on the upper right hand corner of this page
-2. Click download .zip
-3. This will download all the mod files into a big zip file for you!
-4. Unzip this file
-5. Look inside the unzipped folder, move all the files from this folder into the mods folder we opened in step 3!
+5. Click the green Code button on the upper right hand corner of this page
+6. Click download .zip
+7. This will download all the mod files into a big zip file for you!
+8. Unzip this file
+9. Look inside the unzipped folder, move all the files from this folder into the mods folder we opened in step 3!
 
 Final Step: Launch the game, hope it doesn't crash! You might consider adjusting your settings, adding performance mods like Optifine, or shaders to enhance your visuals. Happy gaming!
