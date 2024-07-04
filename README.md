@@ -12,11 +12,9 @@ None of these mods are developed by me and all rights belong to their original c
 https://www.java.com/en/download/
 
 ## Step 2: Install Forge Mod Loader
-1. Go here: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html
-2. Download Recommended (Installer)
-3. Click the skip link in upper right hand corner, this should download a .jar file. Do not click any other links on this page!!
-4. Run this .jar file. Use the installer to install for client. More than likely the default directory is what you want.
-5. Open the Minecraft Launcher, and next to the PLAY button, select forge. Launch the game at least once and make sure it doesn't crash!
+1. Download the FML installer at this link. Be really careful NOT to fall for fake download buttons. Wait ~5s and press 'skip' in the top right. Link: https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.0/forge-1.19.2-43.3.0-installer.jar
+2. Run this .jar file. Use the installer to install for client. More than likely the default directory is what you want.
+3. Open the Minecraft Launcher, and next to the PLAY button, select forge. Launch the game at least once and make sure it doesn't crash!
 
 
 ## Step 3: Download the mods! Two ways to do this:
